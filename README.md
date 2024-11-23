@@ -86,3 +86,5 @@ This project is licensed under the Apache 2.0 License. For more details, see the
 This project leverages **Google Colaboratory** and popular open-source libraries to provide an accessible, practical learning experience for everyone.
 
 Happy learning! 😊
+
+⭐ **PS: Don't forget to drop a star on this repo if you like it!** ⭐
